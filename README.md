@@ -1,4 +1,4 @@
 # hello-word
-welcome github
+Welcome GitHub
 
 I'm buri
